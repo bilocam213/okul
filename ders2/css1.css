@@ -1,0 +1,6 @@
+div{ width: 70vw; border: solid gray 6px;}
+.k1{ background-color: limegreen; height: 6vw; }
+.k2{ background-color: limegreen; height: 16vw;}
+.k3{ background-color: limegreen; height: 3vw;}
+.spec{display: flex; flex-wrap: inherit;}
+.k4{height: 3vw; background-color: gray;}
